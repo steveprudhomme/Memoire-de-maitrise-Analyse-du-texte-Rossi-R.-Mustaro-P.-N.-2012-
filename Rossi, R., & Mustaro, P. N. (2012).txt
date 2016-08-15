@@ -1,0 +1,370 @@
+Applying Quality Approaches on ICT-based Educational Products  
+Rogério Rossi and Pollyana Notargiacomo Mustaro Mackenzie Presbyterian University, São Paulo, SP, Brazil 
+rossirogerio@hotmail.com, pollyana.mustaro@mackenzie.br 
+Abstract 
+The quality of any product or service should be assessed and measured by rigorous processes and standards and it cannot be treated as a merely intuitive or subjective factor. For complex products and services ICT-based that supports education it is no different. These products consider differ-ent disciplines such as Instructional Design, Cognitive Psychology, Computer Science, and it may become more difficult to measure and characterize their quality. However, studies show the con-struction of specific process models for them and this work considers quality approaches related to these models, as the Quality Assurance and Quality Control. Specific models and international standards for e-Learning and Distance Education are also presented emphasizing the studies relat-ing the quality of the educational products and services that consider ICT. At the end, a quality model is presented in detail, addressing a continuous improvement concept. It can be used in a development, self-evaluation or certification phase of educational products. 
+Keywords: Quality in Education, e-Learning, Learning Objects, Distance Education 
+Introduction 
+Quality has its own complexity as a subjective and sometimes intuitive feature. In general, the products and services are evaluated by their quality and it is no different for educational products and services, as Learning Objects, e-Learning or Distance Education. For these products the com-plexity of measuring quality can be harder as it integrate different disciplines like education, management, pedagogy, technology, etc. 
+Organizations who wants to offer high quality educational products has to follow  some princi-ples, standards and rules that satisfies all (suppliers, customers and “end users” of these products) that sometimes interprets quality in a different view.   
+To clarify these different views, the approaches of Quality Assurance and Quality Control will be presented. The concepts of process and the presentation of some development process models for educational products will help to understanding the link of these elements and the establishment and measurement of quality, specifically for these complex products.  
+Pawlowski (2007, p. 3) highlights the importance of research in this area “quality in the field of learning, educa-tion, and training, and specifically e-Learning, has become an issue of in-creasing importance in both ‘research-ers’ and ‘practitioners’ ”. Another rele-vant aspect is a survey conducted by Kay & Knaack (2005) that reviewed 58 articles and revealed that only five of these presented a development process model for e-Learning and when it came to quality, the same survey showed that only three studies had evalua-tion mechanisms for these products. These numbers emphasize the relevance of further studies in this area. 
+Material published as part of this publication, either on-line or in print, is copyrighted by the Informing Science Institute. Permission to make digital or paper copy of part or all of these works for personal or classroom use is granted without fee provided that the copies are not made or distributed for profit or commercial advantage AND that copies 1) bear this notice in full and 2) give the full citation on the first page. It is per-missible to abstract these works so long as credit is given. To copy in all other cases or to republish or to post on a server or to redistribute to lists requires specific permission and payment of a fee. Contact Publisher@InformingScience.org  to request redistribution permission.  
+
+In this context, educational products and services that involve Information and Communication Technologies (ICT) as Learning Objects, e-Learning and Distance Education is highlighted as the main elements considered in the model that will be presented in later section of this paper. 
+The concepts of e-Learning and Distance Education are presented by Guri-Rosenblit (2005), Barker (2007), Perkins (2008) and Rekkedal (2006). They are sometimes confused among them-selves, however, for Guri-Rosenblit (2005) and Perkins (2008),  e-Learning and Distance Educa-tion are interchangeable, but do not have the same meaning. Perkins (2008) considers that e-Learning should not be understood as synonymous with Distance Education and can be under-stood as one of the ways that Distance Education can be practiced. To Hadjerrouit (2007, p. 110) “there is no clear and inequivocal definition of the concept of e-Learning”.  
+Regarding Learning Objects, McGreal (2004, para. 36) presents a specific definition: “a learning object is any reusable digital resource that is encapsuled in a lesson or assemblage of lessons grouped in units, modelus, courses, and even programas. A lesson can be defined as a piece of instruction, normally including a learning purpose”. 
+Since there are differences between these educational products, each of them is treated particu-larly by the quality model proposed in this paper. The model has a continuous improvement con-ceptualization and its rules have to be implemented gradually in order to measure and enhance quality. The model serves as a tool for the development, self-assessment or certification phases of educational products. 
+For deepened the concepts presented on this introductory paragraphs, this paper is organized as follows: the next section presents the process models to develop educational products, followed by the presentation of some conceptual approaches related to quality as Quality Assurance and Quality Control. By following with the presentation of quality models and standards for educa-tional products. These previous items are the base for the presentation of the proposed quality model in the later section, which is followed by the final considerations and suggestions for future work in the conclusion section. 
+Development Process Model for  ICT-based Educational Products 
+Process models can be used for development of different products and services. In general they guide the development and maintenance of products and services. Commonly it is structured in a set of phases, activities and tasks. They are widely used by many engineering areas who work together to formalize the development phases of a product, allowing the evaluation of quality of the final result. To this end, there is a need to define this model, which is unique to a particular product and is completely different to others in the same category. Thus, some standards can guide the creation of process models to be used in the development of products and services. 
+The need for these models is not always noticeable to all developers, however, it is possible to verify activities that are repeated in a given development cycle of a product and are always per-formed during development process. This repetition of activities is promising for the creation of a process model. Highlight the set of activities and documents all in a structured manner, using the aforementioned process structure (phases, activities, tasks) favors the designation of a develop-ment process which, in turn, contributes to measurement of quality. 
+Ould (1994) presents the process model as an element of engineering that was once known as lifecycle and mentions that the process model establishes a set of activities for product develop-ment, from the requirements definition phase with the client to make available for use. To Ould (1994) the process model is not the same as a method, since a project to be developed adopts one process model, but can adopt various methods. 
+A process model adopted by a project team can significantly promote the activities of develop-ment of a product or service, because it allows supporting a set of structured elements of the model that contributes to the implementation of activities such as planning, estimates, design, definition of resources, risks, environmental determination, etc. This process structure, to Ould (1994), provides conditions to manage risk, reduce uncertainty and increase manageability. 
+In an overview, Pressman (1995) states that for software, there is a generic model with three gen-eral phases which are: 1 - Definition Phase – which is focused on the "what" with their respective activities, 2 – Development Phase – which is focused on "how" and also has its own set of activi-ties, and finally 3 – Maintenance Phase – which holds the "changes" pertaining to any product or service which also has its own set of activities. 
+This view can be transposed to any category of products and services that should be built in a formal structure of process model; however, this is a general view, so there is a need to develop a specific model to a particular product or service. 
+Process models can be classified in several types, but considering the emphasis that these can provide the methodological activities for the project development, defined as linear, incremental, evolutionary or competing. This classification may be extended if one considers the different models for each specific product category. 
+Process Model for Educational Products 
+Process models must also be used for the development of educational products. There is a need of a specific standard for these products, which must be sought from research and proposals related to these, from assessments and verifications of development of these products. Hadjerrouit (2007, p. 114) states that conventional system development approaches and development process models are too general: “they are not adequate to be applied to e-Learning”. 
+In a review by Kay & Knaack (2005), from 58 articles analyzed, only five papers were referred to a process model for developing Learning Objects. In a deeper view, only three studies had a for-mal description of evaluation of the final product for this category. Researches and studies in this area are fundamental in order to favor the creation of specific process models to the category of ICT-based educational products. Following are described some studies that presents process models for development of e-Learning and Learning Objects. 
+Hadjerrouit (2007), based on the evolutionary approach, proposes a process model for developing e-Learning that is entitled: Evolutionary Development Process Model to e-Learning. Covering two large groups of processes related to Project Management and Product Development, the model meets considerations of education, pedagogical and engineering and it considers nine phases in the structure: 1 – System Scope, 2 – Requirements Determination, 3 – Requirements Specification, 4 – Architecture Design, 5 – User Interface Design, 6 – Implementation, 7 – Deliv-ery & Use, 8 – Pedagogical Evaluation and 9 – Evolution. 
+Varlamis & Apostolakis (2006) presented a set of processes for e-Learning that determine the lifecycle of the e-Learning Process. Composed of four phases: 1 - Learning Design (3 activities), 2 - Learning Production (3 activities), 3 - Learning Deployment (1 activity) and 4 - Learning As-sessment (1 activity). Accordingly (Varlamis & Apostolakis, 2006, p. 61) “the design phase, where the targets and requirements are specified, the production phase, where content is pro-duced, assembled and packaged for distribution, the deployment phase, which requires the col-laboration of learners in order to distribute the appropriate content per case, and the assessment phase, where the outcome of the whole process is evaluated”. 
+Mustaro & Silveira (2006) consider an Instructional Design Process which aims to set a few steps to the development of Learning Objects. Using an adapted linear approach, the model considers the analysis phase as a set of sub-tasks; “this architecture begins with the selection of theoretical approach for building the framework. The second stage consists on establishing a relational struc-ture that extends the granularity of the learning object, according to the learning style being con-sidered. After this, there are further steps related to the development of learning styles and their placement into the repository. At the end of the process, it would be possible to determine which objects inside a repository would be more accurately adequate to a certain educational context” (Mustaro & Silveira, 2006, p. 39). 
+These process models promote a standardized approach for this category of products, for devel-opment of Learning Objects or as part of a formalizing development processes aimed to e-Learning or Distance Education. 
+Development of educational products are favored with the use of a process model, whether it is based on specific guides or standards or created based only in a given set of theories and practices focused on process engineering. Both situations favors the products development, especially if the process can be repeated and reused in order to raise the process maturity and the quality of the product.  
+According to Humphrey (1989) the quality of a product is highly influenced by the processes that are used to develop it. The scope that can be considered by process varies from the elementary processes to the more specific processes that are used in product development. Therefore, if an institution considers the Evolutionary Process Development Model for e-Learning proposed by Hadjerrouit (2007) it treats the processes of project management and product development that must be followed repeatedly through every development or evolution of existing product, so it can be improved. 
+From the standpoint of quality education, Pawlowski (2007, p. 3) points out that “quality in the field of learning, education, and training, and specifically e-Learning, has become an issue  of increasing importance in both ‘researchers’ and ‘practitioners’ communities. A variety of ap-proaches has been developed and implemented in different sectors, such as higher education”.  
+The considerations above regarding the necessity to repeat processes during the product devel-opment refers to an important concept created in the 1920s by Walter A. Shewhart (Davis, Aqui-lano & Chase, 2001) referring to continuous improvement. Hence the creation of their own model called PDCA initials of Plan - Do - Check - Act, which has a focus on continuous improvement of processes due to their circular characteristic opposing the linearized models defined at the time. 
+Thus, the processes grouped in a view model favors the development of educational products and contributes to the activities of measurement of quality that will be addressed in the next section by some theoretical approaches related to quality. 
+The Relevance of Quality Approaches  in ICT-based Educational Products   
+Accordingly to Kay & Knaack (2005) there is a need for a systematic development process for e-Learning, because the lack of a systematic process can result in poor e-Learning quality. This statement is related to e-Learning but can be extended to other educational products and services supported by ICT and all of these products may be favored by a systematic development process to enhance quality scores. 
+As considered by Chao, Saj & Hamilton (2010), researchers are investigating the relationship be-tween development process and quality of a course. These studies shows the positive aspects in order to create standards aimed at development process of these products. Measuring quality dur-ing all development process not only at the end of it. 
+Rekkedal (2006) mentions that in many areas, contemporary society has recently started to re-quire more emphasis on quality. This is reflected on the quality model presented in this work and on models, standards, and guides developed for this purpose, presented in next section. 
+For Cooper & Fisher (2002) quality is the degree to which an object (process, product, or service) meets a set of attributes or requirements. To Humphrey (1989) quality is related to compliance with requirements.  
+Ould (1994) and Sanders & Curran (1995) use ISO 8402 that defines quality as the totality of fea-tures and characteristics of a product, process or service that bear on its ability to satisfy stated or implied needs. 
+Pawlowski (2007, p. 2) presents a definition of quality based on standard ISO 9000:2000 as the “ability of a set inherent characteristics of a product, system, or process to fulfill requirements of customers and other interested parties”. 
+Crosby (1988) is emphatic in stating that quality should be defined as a compliance with the re-quirements and clearly states that the criteria to identify it should be well defined and explained in order that it is possible and feasible to measure them. 
+The definitions above collaborates to understand and to dimension this feature on products and services in general, by following with more specific definitions related to educational products to encourage research and furthering the subject of this paper. 
+For Kanwar & Koul (2007) quality in e-Learning or Distance Education involves the establish-ment of indicators and devices, well as the infrastructure, resources and practices that consider the current technological paradigm, linking these relevant issues to students (digital generation), teachers and administrators.  
+For Valentine (2002), when it comes to e-Learning or Distance Education, some problems regard-ing this type of learning can be mapped: quality of instruction, uncertain costs, misuse of technol-ogy and the attitudes of teachers, students and administrators, each of these problems has an ef-fect on the quality of the product.  
+“Quality is the appropriately meeting the stakeholders’ objectives and needs, which are the result of a transparent, participatory negotiation process within an organization. Moreover in the field of e-Learning, quality is related to all processes, products, and services for learning, education, and training supported by the use of information and communication technologies”,  Pawlowski (2007, p. 2). 
+For Wiley (2002), the elementary particles of an e-Learning system are the Learning Objects. However, it is vital to have standards for both: Learning Objects and e-Learning. Some models, guidelines and standards are identified for e-Learning in a joint effort of governments, universi-ties and public-private partnerships to leverage the qualitative levels of these products and ser-vices; it is little noticed, as opposed to Learning Objects in particular. 
+This is considered by researchers who present works and researches focused on standards that favor the measurement of quality of Learning Objects, as indicated by: 1) Varlamis & Aposto-lakis (2006) that proposes standards for e-Learning and consider these Learning Objects as parti-cles of e-Learning system; 2) Kay & Knaack (2005) that present a study of standards for Learning Objects that could be evaluated in view of students and teachers when using these objects by high school students; 3) Krauss & Ally (2005) conducted a study to design and evaluation of Learning Objects considering the implications of quality during the development and presenting a survey on the quality of Learning Objects based on the views of the instructor and student. 
+Quality must be considered to all kind of educational products and services, special attention should be given to the products supported by ICT favoring the acquisition or development by any institutions and use by the society. According to Barker (2007, p. 110), “quality standards are im-portant for two significant reasons. First, they help purchasers, through criteria and standards, to make appropriate e-Learning choices in order to maximize return on their investments. Second, they help those who develop and offer e-Learning”. 
+In this sense, fundamental concepts originated from quality engineering should be considered and will be outlined below emphasizing the search of the researchers to create elements that work to-gether to measure the quality of educational products. These concepts refers to "Quality Assur-ance" and "Quality Control". It will be presented some references on the subject can lead to ques-tions on how to deal with quality products and services through education, especially if they fol-low the process models in its development. 
+In a conceptual view, these approaches have small differences (Pressman, 2011; Sommerville, 2003; Ould, 1994), but culminate in similar practices. In a vision applied to a quality education, these approaches also have small differences (Giraffa & Netto, 2010; Catani & Almeida Júnior, 2009), but they favor a consensus and should therefore be considered as a useful factor for the quality model presented on this paper. 
+Pressman (2011, p. 370) considers for Software Engineering that “Quality Control includes a set of actions that can help each resulting product will achieve its goals of quality and that Quality Assurance is the establishment of infrastructure that supports solid methods of engineering, man-agement and Quality Control actions”. 
+Ould (1994) is based on the definitions of ISO 8402 which presents the Quality Assurance as the aspect of the overall management function that determines and implements the quality policy and Quality Control is the operational techniques and activities that are used to satisfy the quality re-quirements. 
+Sommerville (2003, p. 458) defines "Quality Assurance as the establishment of a procedural framework and organizational standards, leading to high quality software and Quality Control as the definition and approval processes to ensure that procedures and quality standards are followed by the project team software development". 
+These concepts work together and promotes a vision of these two major quality approaches: 1) Quality Assurance offers a broad vision that comes with a quality policy and system to be used in a particular organization among its development process models for products and services also includes several elements, such as standards, reviews and measurements, indicators and reports, etc; 2) Quality Control favors mechanisms that are strongly attached to monitoring, reviews and inspections established by the quality policy and the entire quality structure (standards, proce-dures, mechanisms of measurement) that was established by the approach regarding Quality As-surance. For Godbole (2005, p. 7), “the two approaches are complementary to each other but dif-ferent. Whereas Quality Control is corrective, Quality Assurance is a preventive approach”. 
+In a vision applied to educational issues these approaches have very similar proposals, but are linked to assessment activities, calibrating or validating quality of a final product set, not being considered according to the references made to evaluate processes. 
+Quality assurance can be treated in an evaluation or certification form, where the first includes improving the quality, leading to a continuous improvement and the second is to ensure the qual-ity (Catani & Almeida Júnior, 2009). The assessment format is a concept of continuous improve-ment that is made possible with support from pre-established processes and the certification for-mat culminates with an audit process of a developed product in order to get a seal, or some type of certification document. 
+Giraffa & Netto (2010) proposes three levels to subdivide what is nominated Quality Assurance for Distance Education and e-Learning, as follows: 1 - a quality audit, where is verified the exis-tence of procedures to ensure quality; 2 - quality assessment, which involves analysis on certain aspects of the product and 3 - accreditation, which refers to a method of external evaluation to verify compliance with certain criteria or predetermined standards. 
+Considering these approaches and some practical insights related to education, other studies are identified that links Quality Control approach, ie, that seeks to generate mechanisms that vali-dates product quality given certain standards but not consider points concerning Quality Assur-ance, which focuses on a greater scale, factors such as the definition of what is quality, what are the strategies and policies to achieve it, what mechanisms of measurement and storage were cre-ate to generate a historical basis for future comparisons that could support the evolution of quality in a process of continuous improvement. 
+Chao, Saj & Hamilton (2010, p. 109) presented a work done at Royal Roads University in Can-ada, where they seek to prove the efficiency of use of standards in the process of developing e-Learning courses. The research question proposed by the authors is related to “determining how quality standards can be effectivelly used and implemented by faculty and instructional design-ers”. Some elements of quality were considered and surveys were carried out with various par-ticipants (faculty members and instructional designers) and concluded that quality standards for the instructional design phase are valid for the process of course development. 
+To Hadjerrouit (2007, p. 128) “developing e-Learning is not a simple process. It is a complex matter and the development process is not an isolated activity. E-Learning is a part of a larger environment that includes educational, organizational, pedagogical and technological dimen-sions”. Accordingly to the Evolutionary Development Process Model to e-Learning proposed by Hadjerrouit (2007), an evaluation phase is considered with the existence of various mechanisms and standards that contribute to this type of evaluation where process model considers this activ-ity by working with Quality Control. A stage of development is identified in the model and ac-cording to (Hadjerrouit, 2007, p.127) “a continuous evolution is of crucial importance for the quality of e-Learning”.  
+Buzzetto-More & Pinhey (2006) presented a set of guidelines and a rubric to evaluate online courses developed by the University of Maryland Eastern Shore. This element contributes to a Quality Control step to ensure the courses quality without the extreme breadth of the approach related to Quality Assurance. 
+Educational Quality Models and Standards  
+Quality for educational products and services supported by ICT favors the presentation of models, guidelines or standards that address this issue. Often these documented structures collaborate with the issue of Quality Control not meeting the more comprehensive issue related to Quality Assur-ance. 
+Rekkedal (2006), Litto & Formiga (2009), Barker (2007) and Shelton (2011) present their work in some of these structures and discuss about the use and value they can add to the development or evaluation phases of products and services oriented to education. 
+For Barker (2007) the standard "Canadian Recommended E-learning Guidelines (CanREGs)" is significant, therefore, it considers product quality e-Learning in two ways; supporting purchasers through the criteria and standards, the acquisition of appropriate products in order to maximize the return of the investment and ensuring the activities of the developers of these products. Can-REGs was initiated under the leadership of FuturEd in early 1998 with investment from the Ca-nadian government; the FuturEd directed the development of the standard considering several consumers and providers of e-Learning, national and international, to accomplish the work. The standard was released in 2002 and in May 2004 it was launched in the global market as the Open eQuality Learning Standards. 
+According to Chao, Saj & Hamilton (2010) the document entitled "Canadian Recommended E-learning Guidelines" does not suggest a model for developing a Distance Education Center, but it considers important to review and evaluation the course content, design, education, purchases made by the students, policies and management practices and student support. 
+Another document entitled "Quality on the Line: Benchmarks for Success in Internet-Based Dis-tance Education" presented by The Institute for Higher Education Policy (2000), in April 2000, also deals with mechanisms of quality associated with Distance Education, and sets out ways to measure the quality concerns through clauses divided into the following categories: 1) Institu-tional Support, 2) Course Development, 3) Teaching/Learning Process, 4) Course Structure, 5) Student Support, 6) Faculty Support, 7) Evaluation and Assessment. 
+Shelton (2011) presents other frameworks that enhance the considerations about quality in the face of educational products and services. There are 13 paradigms to assess the quality of online education and a brief description of these paradigms is demonstrated with similarities and differ-ences between them. The first paradigm presented by Shelton (2011) is IHEP’s Quality on the Line: Benchmarks for Success in Internet-Based Distance Education, presented earlier in this sec-tion. 
+This paper does not present all paradigms, however, follows a brief description of CHEA's Ac-creditation and Quality Assurance Study, developed by the U.S. Council for Higher Education Accreditation from the evaluation of 17 institutions of evaluators recognized by the Department of Education (EUDE). This work results in a document that considers the seven most significant areas to be addressed to ensure quality of distance learning programs, as follows: 1) Institutional Mission, 2) Institutional Organizational Structure, 3) Institutional Resources, 4) Curriculum and Instruction, 5) Faculty Support, 6) Student Support, 7) Student Learning Outcomes. 
+Silva (2009) present a survey on the standards developed by ISO (International Standardization Organization) and ABNT (Brazilian Technical Standards Association) dedicated to products and services related to education. From the standards identified, one of them, ISO/IEC 19796-1:2005 (Information Technology – learning, education and training – quality management, assurance and metrics) has a structure related to the characteristics and quality metrics for learning, education and training and the processes that are related to the development of a computer-supported educa-tional solution. Procedures necessary for development according to ISO / IEC 19796-1:2005 are: 1) NA – Needs Analysis, 2) FA – Framework Analysis, 3) CD – Conception/Design, 4) DP – De-velopment/Production, 5) IM – Implementation, 6) LP – Learning Process e 7) EO – Evalua-tion/Optimization. ISO/IEC 19796-1:2005 is also considered in the research work on models and quality standards presented by Rekkedal (2006) and Pawlowski (2007). 
+With the presentation of some standards that address the quality, considering Quality Assurance and Quality Control, is possible to observe that they are developed for educational products and services supported by ICT, however, is perceived a lack of focus of these standards towards the Learning Objects. 
+A Proposed Quality Model for ICT-based Educational Products 
+The model aims to set rules for building products that are designed to educate, train and build skills in a given field of knowledge through the use of ICT. It was defined considering a continu-ous improvement philosophy, supports the product development at levels that can be met fully or partially, accordingly to the allowed customization using the Key Educational Product element defined by the model. Figure 1 presents the model structure. 
+ 
+ 
+FIGURE 1 – SIMPLIFIED MODEL STRUCTURE (Rossi & Mustaro, 2011) 
+The model’s first element is the Level, which determines the degree of adherence to the model. There are three levels that must to be reached in order to establish and improve product quality. The levels order must be obeyed. Is not permitted to reach the second level without going through the first and reach the third without going through second. This is absolutely related to the con-cepts of continuous improvement and allows the institution that adopts the model perceives how their products are improved accordingly to the groups of rules implemented by each level.  
+The Common Entity (CE) is the model’s second element. In general, it corresponds to parts or activities of Distance Education or an e-Learning product. Each of them is presented in each Lev-el. 
+Another element of the model is called Group of Implementation Rules (GIR). This is under the Commom Entity and it is not repeated, it means that one determined Group of Implementation Rules is presented only in a unique Commom Entity and each Group of Implementation Rules must have at least one Implementation Rule. The Group of Implementation Rules presented in one Commom Entity is not repeated in another entity, even if it is on another Level. 
+The element called Key Educational Product (KEP) has the objective of defining the implementa-tion rule that must be verified for a particular type of educational product. Products that can take advantage of the rules are classified into: Distance Education (DE), e-Learning (EL) and Learning Objects (LO). It is possible that a particular Implementation Rule is considered for the products Distance Education and e-Learning and another Implementation Rule is considered just for e-Learning and Learning Objects. The same Implementation Rules can be used in both, product im-plementation phase or in self-assessment or certification phases. 
+Sufficient Level 
+
+Intermediate Level
+
+Global 
+Level
+
+CEDP 
+CEMA 
+CETE 
+CETU 
+CESU 
+CEEV 
+CEEV
+
+GIR 1 
+GIR 2 
+GIR 3  
+GIR 4 
+
+IR 1 
+IR 2 
+IR 3 
+IR 4 
+
+Finally, the last element considered by the model that really describes what should be done is the Implementation Rule (IR), ie the rule that must be satisfied to meet the model. This element de-scribes what should be implemented and represents the minimum granularity of the model. They must always be associated with a Group of Implementation Rules and is not repeated throughout the model. 
+These elements make up the structure of the proposed model to establish a base rule to be imple-mented to enable the development of these kinds of products in order to establish high quality or allow means to accomplish quality. 
+After the presentation of the model structure, in the next paragraphs will be described the in-stances of these elements, especially the Implementation Rules of Didactic Pedagogical Common Entity. It is considered for all levels and will be presented in tables 1, 2 and 3 (adapted from Rossi & Mustaro, 2011). 
+The Level is defined as follows: 
+1.
+ Sufficient Level, that allows the implementation of a Group of Implementation Rules that consequently will allow a sufficient condition for functional use of the product; 
+
+
+2.
+ Intermediate Level, its principle is to meet all the rules to implement the Sufficient Level and also those belonging to their own level, while respecting the condition of customiza-tion that is allowed by the model by each common entity at each level; 
+
+
+3.
+ Global Level that considers the implementation of all Group of Implemention Rules of the model. It should also respect the rules that were set to customization. 
+
+
+
+Each of these levels has its own characteristics that reflect adherence to the model. They also provide a preview of how a particular product is implemented since the level defines the groups of rules that can evolve as they are implemented new Group of Implementation Rules belonging to the subsequent levels. 
+The Common Entity is an element that is distributed in all levels without exception, that is, all levels should have six Common Entities with their respective Group of Implementation Rules and their Implementation Rules, they are defined as follows: 
+1.
+ Didactic-pedagogical (CEDP): meet the cognitive processes aimed at learning step and also the elements that make up the instructional design, enabling the constant reflection relevant to the implications of cognitive science in instructional design; 
+
+
+2.
+ Management (CEMA): considering the management and operation of the product; 
+
+
+3.
+ Technology (CETE): involves the entire technological apparatus back to the product, this is, software, hardware, communication elements, etc; 
+
+
+4.
+ Tutorial (CETU): deals with issues involved in mentoring courses, which requires the preparation of the tutors for this activity (both in terms of educational strategies and the preparation for use of the technologies involved) to monitor the performance of the same; 
+
+
+5.
+ Support (CESU): covers the relevant support to students, involving the infrastructure of telephone service and online tutorials available so that students can learn to manipulate the tools needed for the courses, among other things; 
+
+
+6.
+ Evaluation (CEEV): covers relevant topics to the development of a framework for con-ducting diagnostic assessment (for analysis of student profile), summative evaluation (which occurs in pre-established dates to check the contents assimilated), formative as-sessment (which search the seizure of the learning process) and self-evaluation (which enables self-regulated learning). 
+
+
+
+The Didactic-Pedagogical Common Entity has ground in the theories of Instructional Design and the implication of Cognitive Processes in Instructional Design activities (West, Farmer & Wolff, 1991; Gagné, Briggs & Wager, 1992; Dick, Carey & Carey, 2005; Briggs 1977). This Common Entity supports development or evaluation with rules that meet the Instructional Design concepts, ensuring the learning process. Aspects of cognitive processes are considered at this entity to pro-vide favorable conditions in the steps going through the learning process. 
+Instructional Design is of fundamental importance in construction and design of courses. Accord-ing to Chao, Saj & Hamilton (2010) many educational institutions now have a professional in-structional design in the center of the group that designs the curriculum and develops programs of activities. 
+TABLE 1. Implementation Rules for CEDP  (Common Entity Didatic Pedagogical) of Sufficient Level 
+Common Entity Didatic Pedagogical [SUFFICIENT LEVEL]   
+ 
+Group of Implementation Rules 
+ Code  
+ Key Educational Product 
+ Implementation Rule 
+ 
+CEDP 100 – Specific objectives 
+ IRDP 100.1 
+ LO, DE, EL 
+ Specific objectives should be defined and documented. 
+ 
+IRDP 100.2 
+ DE, EL 
+ The specific objectives should indicate the described effects on the learning process. 
+ 
+IRDP 100.3 
+ LO 
+ The objectives must consider the contours related to the com-pleteness of the content. 
+ 
+CEDP 101 – Specific objectives – topic 
+ IRDP 101.1 
+ DE, EL 
+ Topics should be defined and documented. 
+ 
+IRDP 101.2 
+ DE, EL 
+ The limits for each topic should be defined and documented. 
+ 
+IRDP 101.3 
+ DE, EL 
+ Must be registered examples referred to each topic. 
+ 
+CEDP 102 – Specific objectives – types of learners 
+ IRDP 102.1  
+ LO, DE, EL 
+ The main occupation / grade of the learner must be defined and documented. 
+ 
+CEDP 103 – Specific objectives – types of learning 
+ IRDP 103.1 
+ LO, DE, EL 
+ The types of learning (eg conceptual, procedural, and attitudinal) must be defined and documented. 
+ 
+CEDP 104 – Specific objectives – function 
+ IRDP 104.1 
+ LO, DE, EL 
+ The functions of the instructions, i.e. the need for this matter to the learner should be defined and documented. 
+ 
+CEDP 105 – Content – instruc-tional domains 
+ IRDP 105.1 
+ DE, EL 
+ The percentage that refered whether the instruction is intended to bring changes in thinking, attitudes and/or skilled performance considering cognitive ability, affective and psychomotor.  
+ 
+CEDP 106 – Content – instructional content 
+ IRDP 106.1 
+ DE, EL 
+ The different types of guidance that will affect student should be defined and documented.  
+ 
+CEDP 107 – Content – uses of knowledge 
+ IRDP 107.1 
+ LO, DE, EL 
+ Should be defined as the explicit and tacit knowledge will be used. 
+ 
+CEDP 108 – Means of instruction 
+ IRDP 108.1 
+ DE, EL 
+ Must be defined from the perspective of the learner, how will be defined the problems to be used during the instructional process. 
+ 
+IRDP 108.2 
+ DE, EL 
+ Should be defined the possible courses of methods to be used during the learning stage, by the instructor and by the learner. 
+ 
+CEDP 109 – Testing and evaluation 
+ IRDP 109.1 
+ DE, EL 
+ Tests should be relevant to the nature of what is being learned. The types of tests and evaluation should be defined and docu-mented. 
+ 
+IRDP 109.2 
+ DE, EL 
+ The degree of formality of the tests or evaluations should be re-corded for each test or evaluation set. 
+ 
+IRDP 109.3 
+ LO 
+ Tests must consider only elements involved in material presented. 
+ 
+IRDP 109.4 
+ LO, DE, EL 
+ The different kinds of feedback must be defined and documented. 
+ 
+
+ 
+TABLE 2. Implementation Rules for CEDP  (Common Entity Didatic Pedagogical) of Intermediate Level 
+Common Entity Didatic Pedagogical [INTERMEDIATE LEVEL]   
+ 
+Group of Implementation Rules 
+ Code  
+ Key Educa-tional Product 
+ Implementation Rule 
+ 
+ICEDP 200 – Specific objectives 
+ RDP 200.1 
+ LO, DE, EL 
+ What the learner will be able to perform after learning should be defined and documented. 
+ 
+IRDP 200.2 
+ LO, DE, EL 
+ The conditions under which learner must achieve these experiences should be recorded. 
+ 
+CEDP 201 – Content – uses of knowledge 
+ IRDP 201.1 
+ LO, DE, EL 
+ Should be defined the ways in which the learner will use the knowledge. (e.g. replicative, associative, interpretation, applica-tion) 
+ 
+IRDP 201.2 
+ LO, DE, EL 
+ The limits for each topic should be defined and documented. 
+ 
+CEDP 202 – Means of instruc-tion 
+ IRDP 202.1 
+ DE, EL 
+ Media that can be used to support the learning process should be recorded (video, podcasts, texts, learning objects, serious games, etc.). 
+ 
+CEDP 203 – Testing and evaluation 
+ IRDP 203.1 
+ DE, EL 
+ Formative and summative evaluation, for example, should be defined. Considerations for testing or evaluation of education improves the acquisition by the learner should be defined and documented. 
+ 
+
+TABLE 3. Implementation Rules for CEDP  (Common Entity Didatic Pedagogical) of Global Level 
+Common Entity Didatic Pedagogical [GLOBAL LEVEL]   
+ 
+Group of Implementation Rules 
+ Code  
+ Key Educational Product 
+ Implementation Rule 
+ 
+CEDP 300 – Specific objectives 
+ IRDP 300.1 
+ LO, DE, EL 
+ Pre-tests to provide evidence of the level of learning achieved must be defined and documented. 
+ 
+CEDP 301 – Means of instruction 
+ IRDP 301.1 
+ DE, EL 
+ The types of experience that can be used in the preliminary inquiry must be defined and documented. 
+ 
+CEDP 302 – Testing and evaluation 
+ IRDP 302.1 
+ DE, EL 
+ Internal or external evaluations can be considered and documented. 
+ 
+IRDP 302.2 
+ LO 
+ It is recommended to makes available associeted evaluation in the end of concept/content studied to close the learning process. 
+ 
+
+ 
+The proposed model contributes to the development of products geared to education supported by ICT and also their evaluation. It can be considered from an embryonic phase, favoring some ac-tivities of strategic definitions or projects definitions and product development. It favors those who also use it in steps of self-assessment that can be performed during the development cycle of educational products. In all possible applications, it turns to the feature related to the quality of these products, meaning it can be used after the completion of the stages of product evaluation, audit or certification. 
+Conclusion and Further Works 
+Considering the research that has been reported demonstrating the need for further studies related to quality-oriented educational products, especially those supported by modern technologies , this paper collaborates with  some quality elements which can contribute to meet this need.  
+Favored by international models and standards, such as Open eQuality Learning Standards and ISO / IEC 19796-1:2005, quality becomes a characteristic that may be increasingly sought. Given it can be treated in different aspects accordingly to different models or standards, from the initial phases until the availability and use of these products. 
+The relationship with the broader concepts and approaches related to quality, such as Quality As-surance and Quality Control, with the frameworks presented in this article and even considered other frameworks observed in Shelton (2011) require close attention in order to verify how they meet the principles of Quality Assurance and Quality Control. As these approaches present con-siderable differences, they are able to clarify different views of those involved (suppliers, cus-tomers and "end users") with these products in order to reflect quality. 
+In this sense, the importance of these approaches favors the ‘thinking’ related to the results that can be achieved using models and standards that exists for these products and also to the con-struction of another models capable of delineating the qualitative characteristic of educational products. Thus, a quality model is presented and it can be used in the domains of development or evaluation of educational products, with an attribute (Key Educational Product) that permits a customization associating rules by each educational product considered by the model. The model allows for a gradual construction which is represented by common entities. Favored by the stud-ies presented on process models for educational products, the model must be finished, adding new rules for each common entity. 
+Many researches can be considered to address the relationship of this model to other approaches on quality engineering. Measurement schemes can be studied in order to formalize the measure-ments taken; the mode of application of the model should be studied in a detailed way, ie, to what types of products and which rules apply and what time they should be applied. A study aimed at automating the use of the proposed model should translate in important work activities especially in the customization of the rules to be applied to each institution. 
+The qualitative aspects are increasingly valued by modern society. Mechanisms to measure qual-ity are applied in various industries, but researches and cientific works must turn to ways to build quality so that it can be reflected in the various views that compose it. 
+Acknowledgement 
+This work has been financially sponsored by MackPesquisa. 
+References 
+Barker, K. C. (2007). E-learning quality standards for consumer protection and consumer confidence: A Canadian case study in e-learning quality assurance. Educational Technology & Society, 10, 109-119. 
+Briggs, L. J. (1977). Instructional design. New Jersey, USA: Educational Technology Publications.  
+Buzzetto-More, N. A., & Pinhey, K. (2006). Guidelines and standards for the development of fully online learning objects. Interdisciplinary Journal of E-Learning and Learning Objects, 2, 95-104. Retrieved November 5, 2011, from  http://www.ijello.org/Volume2/v2p095-104Buzzetto.pdf  
+Catani, A. M., & Almeida Júnior, V. P. (2009). Algumas características das políticas de acreditação e avaliação da educação superior da Colômbia: interfaces com o Brasil. [Some characteristics of accredi-tation policies and evaluation of higher education in Colombia: interfaces with Brazil] Avaliação, 14(3), 561-582. 
+Chao, I. T., Saj, T., & Hamilton, D. (2010). Using collaborative course development to achieve online course quality standards. International Reviews of Reserch in Open and Distance Learning, 11, 106-126. 
+Cooper, J., & Fisher, M. J. (2002). Software acquisition capability maturity model version 1.03.  Carnegie Mellon University / Software Engineering Institute - CMU/SEI-TR-010. 
+Crosby, P. B. (1988). Qualidade é investimento. [Quality is investment]. Rio de Janeiro, RJ: Livraria José Olympio Editora. 
+Davis, M. M., Aquilano, N. J., & Chase, R. B. (2001). Fundamentos da Administração da Produção [Production Management Fundamentals]. Porto Alegre, RS: Artmed Editora S.A. 
+Dick, W., Carey, L., & Carey, J. O. (2005). The systematic design of instruction. Boston, MA: Allyn & Bacon.  
+Gagné, R. M., Briggs, L. J., & Wager, W. W. (1992). Priciples of instructional design. Orlando, FL: Har-court Brace Jovanovich. 
+Giraffa, L. M. M., & Netto, C. (2010). Avaliação da qualidade dos cursos de graduação a distância: o processo de acreditação como garantia de qualidade. [Quality assessment of distance learning under-graduate courses: The process of accreditation and quality assurance] CINTED – UFRGS, 8(2), 1-10. 
+Godbole, N. S. (2005). Software quality assurance: Principles and practice. Oxford, UK: Alpha Science International. 
+Guri-Rosenblit, S. (2005). ‘Distance education’ and ‘e-learning’: Not the same thing. Higher Education, 49(4), 467-493. 
+Hadjerrouit, S. (2007). Applying a system development approach to translate educational requirements into e-learning. Interdisciplinary Journal of E-Learning and Learning Objects, 3, 107-134 Retrieved No-vember 5, 2011, from  http://www.ijello.org/Volume3/IJKLOv3p107-134Hadj296.pdf  
+Humphrey, W. S. (1989). Managing the software process. Pittsburgh, PA: Addison-Wesley. 
+Kanwar, A., & Koul, B. N. (2007). Una garantía de la calidad y la acreditación de la educación superior a distancia en la Commonwealth Anglófona. [Quality assurance and accreditation of distance higher education in Anglophone Commonwealth] La Educación Superior en el Mundo 2007: acreditación para la garantía de la calidad: ¿ Qué está en juego?, 154-158. 
+Kay, R. & Knaack, L. (2005). Developing learning objects for secondary school students: A multi-component model. Interdisciplinary Journal of E-Learning and Learning Objects, 1, 229-252. Re-trieved November 5, 2011, from http://www.ijello.org/Volume1/v1p229-254Kay_Knaack.pdf 
+Krauss, F. & Ally, M. (2005). A study of the design and evaluation of a learning object and implications for content development. Interdisciplinary Journal of E-Learning and Learning Objects, 1, 1-22. Re-trieved November 5, 2011, from  http://www.ijello.org/Volume1/v1p001-022Krauss.pdf  
+Litto, F. M. & Formiga, M. (2009). Educação a distância: o estado da arte. [Distance Learning: state of art] São Paulo, SP: Pearson Prentice Hall. 
+McGreal, R. (2004). Learning objects: A practical definition. International Journal of Instructional Tech-nology and Distance Learning, 9(1). Retrieved November, 15, 2011 from http://www.itdl.org/journal/sep_04/article02.htm  
+Mustaro, P. N., & Silveira, I. F. (2006). Learning objects: Adaptive retrieval through learning styles. Inter-disciplinary Journal of E-Learning and Learning Objects, 2, 35-46. Retrieved November 5, 2011, from  http://www.ijello.org/Volume2/v2p035-046Mustaro.pdf  
+Ould, M. A. (1994). Strategies for software engineering: The management of risk and quality. England: John Wiley & Sons. 
+Pawlowski, J. M. (2007). The quality adaptation model: Adaptation and adoption of the quality standard ISO/IEC 19796-1 for learning, education, and training. Educational Technology & Society, 10(2), 3-16. 
+Perkins, J. E. P. (2008). Una introducción a la educación a distancia. [Introduction to distance education] Buenos Aires: Fundo de Cultura Económica. 
+Pressman, R. S. (2011). Engenharia de software: Uma abordagem profissional. [Software engineering: A professional approach]. Porto Alegre, RS: AMGH Editora Ltda. 
+Pressman, R. S. (1995). Engenharia de software. [Software engineering] São Paulo, SP: Makron Books. 
+Rekkedal, T. (2006). State of the art report on distance learnig and e-learning quality for SMEs. Retrieved November 11, 2011, from http://nettskolen.nki.no/in_english/elq-sme/ELQ-SMEStateofArt.pdf 
+Rossi, R., & Mustaro, P. N. (2011). A simplified quality model for e-learning development and evaluation. E-learn World Conferece on E-learning in Corporate, Government, Healthcare, and Higher Educa-tion, 2011, 878-883. 
+Sanders, J., & Curran, E. (1995). Software quality A framework for success in software development and support.  Great Britain: T.J.Press (Padstow) Ltd. 
+Shelton, K. (2011). A review of paradigms for evaluating the quality of online education programs. Online Journal of Distance Learning Administration, 4(1), 1-9. 
+Silva, F. C. N. (2009). Os padrões ISO para EaD. [ISO standards for EaD] In: F. M. Litto & M. Formiga (Org.). Educação a distância o estado da arte. [Distance learning state of art] São Paulo, SP: Pearson Prentice Hall. 
+Sommerville, I. (2003). Engenharia de software.  [Software engineering] São Paulo, SP: Pearson Education do Brasil. 
+The Institute for Higher Education Policy. (2000). Quality on the line: benchmarks for success in internet-bases distance education. 
+Valentine, D. (2002). Distance learning: Promises, problems and possibilities. Online Journal of Distance Learning Administration, 5(3), 1-9. 
+Varlamis, I. & Apostolakis, I. (2006). The present and future of standards for e-learning technologies. In-terdisciplinary Journal of E-Learning and Learning Objects, 2, 59-76. Retrieved November 5, 2011, from  http://www.ijello.org/Volume2/v2p059-076Varlamis.pdf  
+West, C. K., Farmer, J. A., & Wolff, P. M. (1991). Instructional design: Implications from Cognitive Sci-ence. Boston, MA: Pearson Custom Publishing.  
+Wiley, D. (2002). The instructional use of learning objects. Retrieved November 11, 2011, from http://reusability.org/read/ 
+Biographies 
+Rogério Rossi has Bachelor's Degree in Mathematics by the Univer-sity Center Foundation Santo André (1991), MSc in Electrical Engi-neering by Mackenzie Presbyterian University (1998). He is a PhD student in Electrical Engineering at Mackenzie Presbyterian University(early in 2010) with researches focused on quality for educational technology. Since 2000, is working as a professor of undergraduate and graduate courses in the areas of Quality Management, Software Engineering and IT Management. Consultant in the area of Quality and Processes for IT, implementing quality programs based on models such as CMMI, working for national and multinatio
+
+Pollyana Notargiacomo Mustaro was graduated in Pedagogy by the University of São Paulo, an institution that also earned the title of Mas-ter and Doctor of Education. She is currently Professor at Mackenzie Presbyterian University, where she develops activities for Research and Teaching at the Computer Science College and Electrical Engi-neering Postgraduation Course. Among hes areas of research, the following themes stand out: Instructional Design, Learning Objects Tory, Learning Styles, Distance Learning, Podcasts, Social Media proaches and Technological Tools, Social Network Analysis, Hyper-text Theory, Serious Games, Game Culture Studies, and Narratology. 
+ 
+ 
+
+
